@@ -1,5 +1,6 @@
 # 가까운 글쓰기, 가글
-디프만 8기 8조 워밍업 프로젝트
+디프만 8기 8조 워밍업 프로젝트 <br/>
+http://gargle.s3-website.ap-northeast-2.amazonaws.com/
 
 ## Developers
 * [최승일](https://github.com/choiseungil29) : Back
